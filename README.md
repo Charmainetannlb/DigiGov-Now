@@ -18,7 +18,7 @@ Studies and hangs out together with a close group of friends
 
 Cued in to trends
 
-
+<br/>
 
 NLB Mobile: Borrow, read and renew books
 
@@ -27,5 +27,6 @@ Wireless@SG: Get connected to the internet
 ActiveSG: Book sports facilities
 
 MyTransportSG: Transport info
+
 
 
