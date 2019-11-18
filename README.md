@@ -1,8 +1,8 @@
 # DigiGov-Now
 
-The Plugged-In Student
-Studies in a Secondary or Tertiary institution
-Comes from a stable middle-class family
+The Plugged-In Student/
+Studies in a Secondary or Tertiary institution/
+Comes from a stable middle-class family/
 After school time is either spent on CCA activites, or project work, tuition or studying(usually at the library)
 Volunteers at organisations to clock VIA hours - usually on weekends and during school holidays
 Persistently on teh smartphone and internet
