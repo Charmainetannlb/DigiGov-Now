@@ -1,6 +1,6 @@
 # DigiGov-Now
 
-The Plugged-In Student:
+<b>The Plugged-In Student: </b>
 
 Studies in a Secondary or Tertiary institution
 
