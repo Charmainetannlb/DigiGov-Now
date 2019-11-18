@@ -28,5 +28,37 @@ ActiveSG: Book sports facilities
 
 MyTransportSG: Transport info
 
+<br/>
+<br/>
 
+<b>The Engaged Executive: </b>
+
+Works full-time (permanent, contract-based or short-term employment)
+
+Takes public transport
+
+Has free time after work and during weekends
+
+Partakes in physical activities
+
+Travels frequently for leisure
+
+Tries hand at minor investments
+
+Tech-savvy and consumes new media
+
+<br/>
+
+ActiveSG: Book sports facilities
+
+CPF Starter: Find out info on CPF, potential investments
+
+OneMotoring Portal: Pay fines, road tax etc.
+
+NLB Mobile: Borrow, read and renew books/magazines
+
+Mobile@HDB: Track BTO status (for young couples)
+
+<br/>
+<br/>
 
